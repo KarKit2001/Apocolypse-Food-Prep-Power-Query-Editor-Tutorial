@@ -1,6 +1,6 @@
 
 # Apocalypse Food Prep - Power Query in Power BI Project
-
+![New Project (1)](https://github.com/user-attachments/assets/27469568-b9c6-40e7-9768-81a27a1f980a)
 
 
 ## 📖 Project Overview
@@ -35,4 +35,5 @@ Save the cleaned and transformed dataset back to Power BI
 
 ## 📊 Dataset
 Dataset and inspiration provided by Alex The Analyst.
+
 https://www.youtube.com/watch?v=gP-AxNi6uxo&t=328s&ab_channel=AlexTheAnalyst
